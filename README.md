@@ -10,6 +10,8 @@ Please, take a look at my [Resume](https://gdeusdara.github.io/)
 
 - [Dulce](https://github.com/Dulce-Work-Schedule) - Dulce App is an application developed in **React Native** with a **microservices API** to contribute to the organization of schedules of health officials. (Made in the Discipline Software Development Methods - UnB);
 
+- [Schedule](https://github.com/gdeusdara/schedules) - ToDo App made with **Flutter**
+
 - [Portal NBS](https://github.com/mdicgovbr/Portal-NBS) - NBS Consultation's Platform - Brazilian Names of Services, developed in **Ruby on Rails**;
 
 - [Sorting Algorithms](https://github.com/EDAII/Ord_nlogn_showing_execution) - Small College Project in **React Native**
